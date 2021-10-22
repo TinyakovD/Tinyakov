@@ -22,8 +22,10 @@
 А2 - 
 А3 - 
 ## DFD-диаграмма: Разработать ПО
-![none]()
+![none](https://github.com/TinyakovD/Tinyakov.github.io/blob/main/%D0%9B%D0%B0%D0%B1%D0%B0%202.3.png)
 1 - 
 2 - 
 3 - 
 4 -
+## Диаграма прецедентов
+![none](https://github.com/TinyakovD/Tinyakov.github.io/blob/main/%D0%9B%D0%B0%D0%B1%D0%B0%202.4.png)
